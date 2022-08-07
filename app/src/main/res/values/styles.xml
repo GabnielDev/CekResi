@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="errorEnabled">true</item>
+        <item name="hintEnabled">false</item>
+        <item name="boxBackgroundColor">#FCFCFC</item>
+        <item name="boxCornerRadiusTopEnd">8sp</item>
+        <item name="boxCornerRadiusTopStart">8sp</item>
+        <item name="boxCornerRadiusBottomEnd">8sp</item>
+        <item name="boxCornerRadiusBottomStart">8sp</item>
+        <item name="boxStrokeWidth">1dp</item>
+        <item name="errorIconDrawable">@drawable/ic_launcher_foreground</item>
+    </style>
+
+</resources>
